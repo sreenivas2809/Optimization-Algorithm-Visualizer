@@ -8,7 +8,7 @@ st.set_page_config(page_title="Optimization Visualizer", layout="wide", page_ico
 
 st.title("Optimization Algorithm Visualizer")
 st.markdown("Interactive demonstrations of four optimization algorithms.")
-st.markdown("Sreenivas")
+st.markdown("Sreenivas Sreeramadas")
 st.markdown("---")
 
 col1, col2 = st.columns(2)
